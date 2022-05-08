@@ -19,8 +19,34 @@
 ## 협업 툴
  <img src="https://user-images.githubusercontent.com/78680486/158049034-cc1a893a-bc48-463f-811d-72e57853121d.svg" alt ="github"> <img src="https://user-images.githubusercontent.com/78680486/158049038-9c0dd825-e9c8-4e9d-aa60-f66deb56178d.svg" /> <img src="https://user-images.githubusercontent.com/78680486/158049039-55093258-f377-468f-bcf0-d4e7474b7e84.svg" />
 
-## 구현기능
+---------------------------------------
+## 내가 한 구현 기능
 
+### Detail
+
+- LIST 페이지에 Params :id 사용
+- 데이터에 없는 부분은 목데이터를 사용
+- 캐러셀
+- 처음에는 클론하려는 사이트에는 없던 부분이지만 개인적으로 추가구현한 부분
+![](https://velog.velcdn.com/images/hazel123/post/eceefb57-c2f7-4740-b38c-fbdafec471f8/image.gif)
+- 리뷰작성/삭제기능
+- 라디오 버튼으로 만든 별점과 함께 리뷰가 입력될 수 있도록 구현
+![](https://velog.velcdn.com/images/hazel123/post/b45fee55-f804-4d4f-ac52-0aa52d3680b6/image.gif)
+- 메뉴 탭을 클릭시 탭이 있는 곳이 탑에 맞춰지면서 스크롤 이동
+- 중간에 클릭시 레이아웃이 변하는 부분에선 팀원들의 도움을 받아 해결했기에 기록
+![](https://velog.velcdn.com/images/hazel123/post/d5631015-0406-4b4b-9724-08e7c5846e1f/image.gif)
+- 수량 증가시 가격변경
+- 마이너스 부분에 onclick 함수를 만들어 1이되면 그 아래로는 못내려가게 조건식 만들기
+- 모달을 만들어 계속 쇼핑을 할 것 인지 장바구니로 갈것인지 버튼으로 구현
+- 장바구니 > 계속쇼핑하기 > 리스트 페이지 이동
+![](https://velog.velcdn.com/images/hazel123/post/e752ca8f-ff94-4716-a664-7d11f1e35bcf/image.gif)
+
+
+ 📼 [상세페이지 구현영상](https://drive.google.com/file/d/16jNELbELU7O7vNh0rlC0FPm5vuAreBUY/view?usp=sharing)
+ - 내가 구현했지만 많은 부분 팀원의 노고가 들어가있는 상세페이지 파트 영상
+
+---------------------------------------
+## 구현 기능
 ### Login / Join
 
 - Login / Join_intro / Join / Join_done 페이지 분할 생성
@@ -48,9 +74,9 @@
 - 캐러셀
 - 리뷰작성/삭제기능
 - 메뉴 탭 클릭시 스크롤 이동
-![](https://velog.velcdn.com/images/hazel123/post/d5631015-0406-4b4b-9724-08e7c5846e1f/image.gif)
 - 수량 증가시 가격변경
 - 장바구니 > 계속쇼핑하기 > 리스트 페이지 이동
+
 
 ### Nav
 
