@@ -48,6 +48,7 @@
 - 캐러셀
 - 리뷰작성/삭제기능
 - 메뉴 탭 클릭시 스크롤 이동
+![](https://velog.velcdn.com/images/hazel123/post/d5631015-0406-4b4b-9724-08e7c5846e1f/image.gif)
 - 수량 증가시 가격변경
 - 장바구니 > 계속쇼핑하기 > 리스트 페이지 이동
 
@@ -72,8 +73,6 @@
 
 ![](https://velog.velcdn.com/images/hnmpot/post/796a41d0-681f-4260-8686-342c6e076de5/image.png)
 ![](https://velog.velcdn.com/images/hnmpot/post/44dc21a1-00d7-419a-b1b8-6da4cb7b7a0f/image.png)
-![](https://velog.velcdn.com/images/hnmpot/post/
-4d65406e-4a99-4e71-a773-abdd710e9824/image.png)
 
 ### Main
 
