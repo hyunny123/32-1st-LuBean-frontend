@@ -13,8 +13,11 @@
 
 ## 기술 스택
 
-- Back-End : Python, Django
-- Front-End : React, sass
+- Back-End : <img src="https://user-images.githubusercontent.com/78680486/158049033-6a7836e9-da4a-4333-8f80-ea7972b2f922.svg"> <img src="https://user-images.githubusercontent.com/78680486/158049035-1b7122ad-cc99-477c-8d94-98ce48944d92.svg"> <img src= "https://user-images.githubusercontent.com/78680486/158049032-6368747a-c353-491c-8d22-63cdc1c525b1.svg"> <img src= "https://user-images.githubusercontent.com/78680486/158049036-4c7371ab-443d-4db9-baa0-6877a4528034.svg" >
+- Front-End : <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+
+## 협업 툴
+ <img src="https://user-images.githubusercontent.com/78680486/158049034-cc1a893a-bc48-463f-811d-72e57853121d.svg" alt ="github"> <img src="https://user-images.githubusercontent.com/78680486/158049038-9c0dd825-e9c8-4e9d-aa60-f66deb56178d.svg" /> <img src="https://user-images.githubusercontent.com/78680486/158049039-55093258-f377-468f-bcf0-d4e7474b7e84.svg" />
 
 ## 구현기능
 
