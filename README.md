@@ -102,7 +102,7 @@
 
 ### Main
 
-![](https://velog.velcdn.com/images/hnmpot/post/36f731a2-a4c8-4eff-a3da-a5ab0c132b94/image.png)
+![](https://velog.velcdn.com/images/hazel123/post/b5875091-76cf-4793-8103-9c6021268589/image.png)
 
 ### List
 
