@@ -55,6 +55,8 @@
 - 유효성 검사를 적용하여 input 에 입력 이벤트가 발생할때마다 pass여부를 알림
 - fetch로 back과 서버 통신 완료
 
+![로그인_조인](https://user-images.githubusercontent.com/93138130/167325212-791ddac1-7f49-46e5-b8cc-419be50bea47.gif)
+
 ### Main
 
 - 슬라이드 캐러셀 fade in-out 전환
@@ -62,12 +64,22 @@
 - 상품리스트 버튼 클릭 시 4개씩 이동
 - 그리드 사용 영상 첨가
 
+![메인-캐러셀](https://user-images.githubusercontent.com/93138130/167324691-6ce7c97f-0ff3-435f-8822-1b557761b635.gif)
+
 ### List
 
 - nav메뉴 클릭시 해당 리스트 데이터 불러옴
 - 싱글 오리진만 fiter>country 버튼 생성
 - 제품 클릭 시 디테일에 :id 전달
 - 이미지 상수데이터 활용하여 제품별 &&
+
+### Nav
+
+- 원두/상품만 드롭다운 메뉴 생성
+- 카테고리 마다 삼각형 생성 / 드롭메뉴 내용 변경
+- 리스트 페이지 이동
+
+![상품리스트](https://user-images.githubusercontent.com/93138130/167326263-471873cb-07e2-4603-b184-98aeac1b4bb5.gif)
 
 ### Detail
 
@@ -79,17 +91,15 @@
 - 수량 증가시 가격변경
 - 장바구니 > 계속쇼핑하기 > 리스트 페이지 이동
 
+![상세페이지](https://user-images.githubusercontent.com/93138130/167326572-2bce6916-f8bb-41e1-97f0-d6e74907c3ca.gif)
 
-### Nav
-
-- 원두/상품만 드롭다운 메뉴 생성
-- 카테고리 마다 삼각형 생성 / 드롭메뉴 내용 변경
-- 리스트 페이지 이동
 
 ### Footer
 
 - 구독하기 버튼 클릭 시 조건에 따라 다른 메세지 alert창 팝업
 - 아이콘 클릭 시 깃헙 링크로 연결
+
+![메인-푸터](https://user-images.githubusercontent.com/93138130/167324866-86de910c-eb5a-4c65-948e-d4b21f4fd72a.gif)
 
 ## 상세 화면
 
